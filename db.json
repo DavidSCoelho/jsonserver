@@ -1,0 +1,76 @@
+{
+    "livros":[
+        {
+            "id": 1,
+            "nome": "Dragões de Éter: Caçadores de Bruxas",
+            "preco": 29.5,
+            "sinopse":"Nova Ether é um mundo protegido por poderosos avatares em forma de fadas-amazonas. Um dia, porém, cansadas das falhas dos seres racionais, algumas delas se voltam contra as antigas raças. E assim nasce a Era Antiga. Essa influência e esse temor sobre a humanidade só têm fim quando Primo Branford, o filho de um moleiro, reúne o que são hoje os heróis mais conhecidos do mundo e lidera a histórica e violenta Caçada de Bruxas. Primo Branford é hoje o Rei de Arzallum, e por 20 anos saboreia, satisfeito, a paz. Nos últimos anos, entretanto, coisas estranhas começam a acontecer... Uma menina vê a própria avó ser devorada por um lobo marcado com magia negra. Dois irmãos comem estilhaços de vidro como se fossem passas silvestres e bebem água barrenta como se fosse suco, envolvidos pela magia escura de uma antiga bruxa canibal. O navio do mercenário mais sanguinário do mundo, o mesmo que acreditavam já estar morto e esquecido, retorna dos mares com um obscuro e ainda pior sucessor. E duas sociedades criminosas entram em guerra, dando início a uma intriga que irá mexer em profundos e tristes mistérios da família real. "
+        },
+        {
+            "id": 2,
+            "nome": "Dragões de Éter: Corações de Neve",
+            "preco":25.29,
+            "sinopse":"Em Corações de Neve o passado se torna o presente de Nova Ether, e personagens até então vencidos e esquecidos se tornam mais vivos que o próprio sangue da família real Branford.Duas antigas sociedades secretas, que deveriam ter sido exterminadas, renascem como uma única e extremamente furiosa. E a tecnologia do Oriente chega de maneira devastadora ao Grande Paço, dando início a grandes mudanças científicas num processo que irá unir magia e ciência. E para compreender o motivo de tudo mudar tão de repente, o último príncipe de Arzallum resgata sombrios segredos familiares, despertando poderosas forças malignas e benignas, além de seu controle e de sua compreensão"
+        },
+        {
+            "id": 3,
+            "nome": "Dragões de Éter: Círculos de Chuva",
+            "preco":27.9,
+            "sinopse": "A trilogia fantástica de Raphael Draccon! Nova Ether é um mundo protegido por poderosos avatares em forma de fadas-amazonas. Um dia, porém, cansadas das falhas dos seres racionais, algumas delas se voltam contra as antigas raças. E assim nasce a Era Antiga. Hoje, Arzallum, o maior dos Reinos, tem um novo Rei e vive a esperada Era Nova. Coisas estranhas, entretanto, nunca param de acontecer... Dois irmãos sobreviventes a uma ligação com antigas forças de magia negra descobrem que laços dessa natureza não se rompem tão facilmente e cobram partes da alma como preço. Uma sociedade secreta renascida com um exército de órfãos resolve seguir em frente em um plano com tudo para dar errado em busca do maior tesouro já enterrado, sem saber o quanto isso pode mudar a humanidade. O último príncipe de Arzallum viaja para um casamento forçado em uma terra que ele nem mesmo sabe se é possível existir, disposto a realizar um feito que ele não sabe se é possível realizar. Uma adolescente desperta em iniciações espirituais descobre-se uma mediadora com forças além do imaginário. E um menino de cinco anos escala uma maldita árvore que o leva aos Reinos Superiores, ferindo tratados políticos, e dando início à Primeira Guerra Mundial de Nova Ether."
+        },
+        {
+            "id": 4,
+            "nome": "Dragões de Éter: Estandartes de Névoa",
+            "preco": 29.5,
+            "sinopse": "Hoje é um dia especial para Nova Ether e para todos leitores e fãs que mantiveram seus Reis, Rainhas, Bruxas e Fadas vivos. Após 13 anos de espera, o desfecho da fantástica série Dragões de Éter ficou pronto. Estandartes de Névoa traz todas as respostas para os questionamentos e dúvidas até então não resolvidos nos outros livros. Com desfecho surpreendente e inusitado, Raphael Draccon presenteia os leitores com tudo o que pediram e merecem saber sobre o destino de Maria Hanson, Axel Branford e Livith. O Continente Nascente finalmente é trazido à tona na história, assim como os povos e perigos existentes nele. Também são reveladas a identidade da Virgem de Trigger – destinada a gerar o novo Merlim – e a ascensão do verdadeiro Pendragon! O mundo de Nova Ether como se conhecia não existe mais. Não apenas mudou, como nunca mais será o mesmo! Chegou a hora de vivermos um último e emocionante sonho, escrito e pensado exclusivamente para você, leitor!"
+        },
+        {
+            "id": 5,
+            "nome": "A batalha do Apocalipse : Da queda dos anjos ao crepúsculo do mundo",
+            "preco": 34.99,
+            "sinopse": "Tudo começou há muitos e muitos anos, há tantos anos quanto o número de estrelas no céu, o Paraíso Celeste foi palco de um terrível levante. Um grupo de anjos guerreiros, amantes da justiça e da liberdade, desafiou a tirania dos poderosos arcanjos, levantando armas contra seus opressores. Expulsos, os renegados foram forçados ao exílio, e condenados a vagar pelo mundo dos homens até o dia do Juízo Final. Mas eis que chega o momento do Apocalipse, o tempo do ajuste de contas, o dia do despertar do Altíssimo. Único sobrevivente do expurgo, o líder dos renegados é convidado por Lúcifer, o Arcanjo Negro, a se juntar às suas legiões na batalha do Armagedon, o embate final entre o Céu e o Inferno, a guerra que decidirá não só o destino do mundo, mas o futuro do universo. Das ruínas da Babilônia ao esplendor do Império Romano; das vastas planícies da China aos gelados castelos da Inglaterra medieval. A Batalha do Apocalipse não é apenas uma viagem pela história humana, mas é também uma jornada de conhecimento, um épico empolgante, cheio de lutas heroicas, magia, romance e suspense."
+        },
+        {
+            "id": 6,
+            "nome": "Trilogy of Thornes",
+            "preco": 270,
+            "sinopse": "Ele estava preso nos espinhos venenosos. Tinha a reputação de ser violento e imprevisível. Era preciso muita coragem para lançar um livro desses. E foi assim que a DarkSide® Books apostou no escuro e lançou sua primeira fantasia dark: Prince of Thorns, livro de estreia da aclamada Trilogia dos Espinhos, de Mark Lawrence. Um sucesso que surpreendeu muita gente, e que se repetiria com os outros livros da série, King of Thorns e Emperor of Thorns. Agora, a saga completa está reunida em  TRILOGIA DOS ESPINHOS - OMNIBUS. Os três romances saem em um único volume em capa dura, capaz de resistir a um apocalipse nuclear. São quase mil páginas cobertas de sangue nessa edição de luxo que mais parece um autêntico grimório da Idade das Trevas."
+        },
+        {
+            "id": 7,
+            "nome": "O nome do Vento - A Crônica do Matador de Reis, Primeiro dia",
+            "preco": 30,
+            "sinopse": "Ninguém sabe ao certo quem é o herói ou o vilão desse fascinante universo criado por Patrick Rothfuss. Na realidade, essas duas figuras se concentram em Kote, um homem enigmático que se esconde sob a identidade de proprietário da hospedaria Marco do Percurso. Da infância numa trupe de artistas itinerantes, passando pelos anos vividos numa cidade hostil e pelo esforço para ingressar na escola de magia, O nome do vento acompanha a trajetória de Kote e as duas forças que movem sua vida: o desejo de aprender o mistério por trás da arte de nomear as coisas e a necessidade de reunir informações sobre o Chandriano – os lendários demônios que assassinaram sua família no passado. Quando esses seres do mal reaparecem na cidade, um cronista suspeita de que o misterioso Kote seja o personagem principal de diversas histórias que rondam a região e decide aproximar-se dele para descobrir a verdade. Pouco a pouco, a história de Kote vai sendo revelada, assim como sua multifacetada personalidade – notório mago, esmerado ladrão, amante viril, herói salvador, músico magistral, assassino infame.  Nessa provocante narrativa, o leitor é transportado para um mundo fantástico, repleto de mitos e seres fabulosos, heróis e vilões, ladrões e trovadores, amor e ódio, paixão e vingança. Mais do que a trama bem construída e os personagens cativantes, o que torna O nome do vento uma obra tão especial – que levou Patrick Rothfuss ao topo da lista de mais vendidos do The New York Times – é sua capacidade de encantar leitores de todas as idades."
+        },
+        {
+            "id": 8,
+            "nome": "O temor do Sábio - A Crônica do Matador de Reis, Segundo dia",
+            "preco": 58,
+            "sinopse":"Quando é aconselhado a abandonar seus estudos na Universidade por um período, por causa de sua rivalidade com um membro da nobreza local, Kvothe é obrigado a tentar a vida em outras paragens. Em busca de um patrocinador para sua música, viaja mais de mil quilômetros até Vintas. Lá, é rapidamente envolvido na política da corte. Enquanto tenta cair nas graças de um nobre poderoso, Kvothe usa sua habilidade de arcanista para impedir que ele seja envenenado e lidera um grupo de mercenários pela floresta, a fim de combater um bando de ladrões perigosos. Ao longo do caminho, tem um encontro fantástico com Feluriana, uma criatura encantada à qual nenhum homem jamais pôde resistir ou sobreviver – até agora. Kvothe também conhece um guerreiro ademriano que o leva a sua terra, um lugar de costumes muito diferentes, onde vai aprender a lutar como poucos. Enquanto persiste em sua busca de respostas sobre o Chandriano, o grupo de criaturas demoníacas responsável pela morte de seus pais, Kvothe percebe como a vida pode ser difícil quando um homem se torna uma lenda de seu próprio tempo."
+        },
+        {
+            "id": 9,
+            "nome":"Mago, Livro 1: Aprendiz",
+            "preco": 58,
+            "sinopse": "Na fronteira do Reino das Ilhas existe uma vila tranquila chamada Crydee. É lá que vive Pug, um órfão franzino que sonha ser um guerreiro destemido ao serviço do rei. Mas a vida dá voltas e Pug acaba se tornando aprendiz do misterioso mago Kulgan. Nesse dia, o destino de dois mundos altera-se para sempre. Com sua coragem, Pug conquista um lugar na corte e no coração de uma princesa, mas subitamente a paz do reino é desfeita por misteriosos inimigos que devastam cidade após cidade. Ele, então, é arrastado para o conflito e, sem saber, inicia uma odisseia pelo desconhecido: terá de dominar os poderes inimagináveis de uma nova e estranha forma de magia… ou morrer. A Saga do Mago é uma aventura sem igual, uma viagem por reinos distantes e ilhas misteriosas, onde conhecemos culturas exóticas, aprendemos a amar e descobrimos o verdadeiro valor da amizade. E, no fim, tudo será decidido na derradeira batalha entre as forças da Ordem e do Caos."
+        },
+        {
+            "id": 10,
+            "nome": "Mago, Livro 2: Mestre",
+            "preco": 69.9,
+            "sinopse":"Passaram-se três anos desde o terrível cerco a Crydee. Os três rapazes que eram melhores amigos se encontram agora a quilômetros de distância uns dos outros. Pug, um escravo dos tsurani, está prestes a se tornar um dos maiores magos que já existiram. Tomas, um grande guerreiro entre os elfos, arrisca-se a perder sua humanidade para a armadura encantada que veste. Arutha, Príncipe de Crydee, luta desesperadamente contra invasores e traidores para salvar seu reino. Mestre, segundo livro da série A Saga do Mago, é recheado de aventura, emoção e ameaças tão antigas quanto o próprio tempo. Nele, Raymond E. Feist volta a provar que é um dos maiores nomes da literatura fantástica contemporânea."
+        },
+        {
+            "id": 11,
+            "nome": "Mago, Livro 3: Espinho de Prata",
+            "preco":65.5,
+            "sinopse":"Durante quase um ano, a paz reinou nas terras encantadas de Midkemia. Porém, novos desafios aguardam Arutha, o Príncipe de Krondor, quando Jimmy, a Mão – o mais jovem larápio do Zombadores, a Guilda dos Ladrões – surpreende um sinistro Falcão Noturno prestes a assassiná-lo. Que poder maléfico fez com que os mortos se levantassem para combater em nome da Guilda da Morte? E que magia poderosa poderá derrotá-los? Mas primeiro o Príncipe Arutha, na companhia de um mercenário, um bardo e um jovem ladrão, terá que fazer a viagem mais perigosa da sua vida, em busca de um antídoto para o veneno que está prestes a matar a bela Princesa no dia do seu próprio casamento."
+        },
+        {
+            "id": 12,
+            "nome": "Mago, livro 4: Trevas em Sethanon",
+            "preco": 75.5,
+            "sinopse":"Ventos malignos sopram sobre Midkemia. As legiões negras ergueram-se para esmagar o Reino das Ilhas e escravizá-lo com o terrível poder de sua magia. A batalha final entre a Ordem e o Caos está prestes a começar nas ruínas de uma cidade chamada Sethanon."
+        }
+    ]
+}
