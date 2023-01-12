@@ -72,5 +72,68 @@
             "preco": 75.5,
             "sinopse":"Ventos malignos sopram sobre Midkemia. As legiões negras ergueram-se para esmagar o Reino das Ilhas e escravizá-lo com o terrível poder de sua magia. A batalha final entre a Ordem e o Caos está prestes a começar nas ruínas de uma cidade chamada Sethanon."
         }
+    ],
+    "jogos": [
+        {"id": 1,
+        "nome": "Ticket to Ride",
+        "preco": 430.9,
+        "jogadores": "2 a 5 jogadores"
+    },
+    {
+        "id": 2,
+        "nome": "Banco Imobiliário",
+        "preco": 106,
+        "jogadores": "2 a 6 jogadores"
+    },
+    {
+        "id": 3,
+        "nome": "Detetive Retrô",
+        "preco": 179.9,
+        "jogadores": "2 a 6 jogadores"
+    },
+    {
+        "id": 4,
+        "nome": "War",
+        "preco": 109.99,
+        "jogadores":"2 a 6 jogadores"
+    },
+    {
+        "id": 5,
+        "nome": "Catan",
+        "preco": 282,
+        "jogadores": "3 a 4 jogadores"
+    }
+    ],
+    "boxes":[
+        {
+            "id": 1,
+            "nome": "Senhor dos Anéis",
+            "preco": 118,
+            "descricao": "Apesar de ter sido publicado em três volumes – a sociedade do anel, as duas torres e o retorno do rei – desde os anos 1950, o senhor dos anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido em seu conjunto, segundo a concepção de seu autor, j.r.r. Tolkien. Com design cuidadosamente pensado para refletir a unidade da obra e os desenhos originais feitos por tolkien para as capas de cada volume, este box reúne os três livros da saga do anel e oferece aos leitores uma nova oportunidade de mergulhar no notável mundo da terra-média."
+        },
+        {
+            "id": 2,
+            "nome": "Harry Potter",
+            "preco": 180,
+            "descricao": "A vida do menino Harry Potter não tem um pingo de magia. Ele vive com os tios e o primo, que não gostam nem um pouco dele. O quarto de Harry é, na verdade, um armário sob a escada, e ele nunca comemorou um aniversário sequer em onze anos. Até que, um dia, Harry recebe uma carta misteriosa, entregue por uma coruja: um convite para estudar num lugar incrível chamado Escola de Magia e Bruxaria Hogwarts. Lá ele vai encontrar não só amigos, esportes praticados em vassouras voadoras e magia para todo lado, como também seu destino: ser um aprendiz de feiticeiro até o dia em que terá que enfrentar a pior força do mal, o bruxo que assassinou seus pais. Mas, para isso, Harry precisará passar por uma série de desafios e enfrentar inúmeros perigos. Em sete livros que se tornaram o maior fenômeno editorial de todos os tempos, com mais de 450 milhões de exemplares vendidos e traduções em 78 idiomas, Harry Potter não é exposto apenas a batalhas e feitiços. Ele precisa superar traições, surpresas e, sobretudo, aprender a lidar com os próprios sentimentos. O amor, a amizade e claro, uma boa dose de magia e imaginação, são os elementos-chave para da maior saga bruxa de todos os tempos. 'Box Harry Potter – Série Completa': perfeito para todos que cresceram acompanhando a saga do jovem bruxo e para as novas gerações de fãs que anseiam por conhecê-la!"
+        },
+        {
+            "id": 3,
+            "nome": "Percy Jackson e os Olimpianos",
+            "preco":199.9,
+            "descricao": "Foram mais de 15 milhões de livros vendidos em todo o mundo e quase um milhão no Brasil, além da adaptação para o cinema que atraiu 1,8 milhão de espectadores no país. Agora, os fãs da série podem ter, reunidos em um box especial, com edição limitada e design exclusivo, os cinco livros da saga que consagrou o autor Rick Riordan: O ladrão de raios, em que Percy descobre sua ligação com os deuses do Olimpo e precisa impedir uma guerra entre eles, que acabaria com toda a civilização ocidental; O Mar de Monstros, quando ele e seus amigos se envolvem numa perigosa aventura para defender o Acampamento Meio-Sangue; A maldição do Titã, em que nosso herói descobre que Cronos, o Senhor dos Titãs, despertou e está disposto a destruir toda a humanidade; A batalha do Labirinto, em que Percy, Tyson, Annabeth e Grover são destacados para combater o perigoso Titã nos corredores do temido Labirinto de Dédalo; e O último Olimpiano, quando o confronto toma as ruas de Nova York e Percy tem de lidar não só com o exército de Cronos, mas também com a chegada de seu 16º aniversário e, com ele, com a profecia que determinará seu destino."
+        },
+        {
+            "id": 4,
+            "nome": "Trono de Vidro",
+            "preco": 315,
+            "descricao": "Trono de Vidro conta a saga de Celaena Sardothien, assassina nascida em uma terra sem magia, onde o rei governa com mão de ferro. Depois de cumprir um ano de trabalho escravo nas minas de sal de Endovier por seus crimes, ela é arrastada diante do príncipe herdeiro. O príncipe Dorian oferece à Celaena sua liberdade, mas sob uma condição: ela deve ganhar uma competição para se tornar a nova assassina real. Seus oponentes são ladrões, assassinos e guerreiros de todo o império, cada um patrocinado por um membro do conselho do rei. Se ela derrotar seus concorrentes em uma série de eliminações, servirá ao reino por três anos como assassina e depois terá sua liberdade. A jovem aceita prontamente o desafio e começa as sessões de treinamento com o capitão da guarda, Westfall. Treinar é desafiador e emocionante, mas a vida na corte é um tédio sem fim. No entanto, as coisas ficam mais interessantes quando o príncipe Dorian começa a mostrar sentimentos por ela. Quando um a um, outros competidores aparecem mortos em circunstâncias obscuras, fica claro que algo bastante maligno mora no castelo de vidro - e está lá para matar. Celaena decide investigar antes que ela se torne a próxima vítima, e essa busca a leva a descobrir um destino muito maior do que ela poderia imaginar."
+        },
+        {
+            "id": 5,
+            "nome": "As Crônicas de Gelo e Fogo",
+            "preco": 200,
+            "descricao": "Todo o reino de westeros ao alcance das mãos! Edição com texto integral! A série As crônicas de gelo e fogo dispensa apresentações. São mais de 30 milhões de livros vendidos ao redor do mundo - e cerca de 2 milhões no Brasil. Os números, assim como a profusão de tramas e personagens, impressiona e atrai mais fãs a cada dia. E para satisfazer a ânsia dos aficionados e dos novos leitores, a Leya publica uma nova edição limitada do Box As crônicas de gelo e fogo com os cinco livros já escritos  A guerra dos tronos, A fúria dos reis, A tormenta de espadas, O festim dos corvos e A dança dos dragões."
+        }
     ]
 }
